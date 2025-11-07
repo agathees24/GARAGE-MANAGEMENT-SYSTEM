@@ -2,16 +2,17 @@ Garage Management System
 
 Here you will find all the document files related to the **"Garage Management System"** Salesforce project.
 
-Team ID: NM2025TMID04446  
-Team Size: 4  
+Team ID: NM2025TMID00870
 
-Team Leader: Jahirabegam M
+Team Size: 4
 
-Team Member 1: Agatheeswaran R  
+Team Leader: Agatheeswaran R
 
-Team Member 2: Karunya S
+Team member: Jahira Begam M
 
-Team Member 3: Maheshwaran M
+Team member: Maheshwaran M
+
+Team member: Karunya S
 
 ---
 
